@@ -1,2 +1,2 @@
-# 국민대학교 소프트웨어프로젝트1
-## Kookmin University
+# 국민대학교 소프트웨어프로젝트I
+## Kookmin University SWProject I
